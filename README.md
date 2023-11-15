@@ -11,3 +11,5 @@ See folder "nets" for details
 The cornell dataset is available for download at http://pr.cs.cornell.edu/grasping/rect_data/data.php
 
 The jacquard dataset is available for download at https://jacquard.liris.cnrs.fr/database.php
+
+For more information, please contact tshanlan@163.com
