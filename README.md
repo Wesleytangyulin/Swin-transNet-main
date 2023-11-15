@@ -6,6 +6,8 @@ The network is built on the YOLO basic framework with Swin Transformer as the ba
 
 The repository shows images of the backbone network and part of the dataset. 
 
+See folder "nets" for details
+
 The cornell dataset is available for download at http://pr.cs.cornell.edu/grasping/rect_data/data.php
 
 The jacquard dataset is available for download at https://jacquard.liris.cnrs.fr/database.php
